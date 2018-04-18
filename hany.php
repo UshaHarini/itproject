@@ -9,4 +9,5 @@ echo '<input type="radio" name="candidate" id="name2" value="'.$row['candidatena
 
 }
 echo '</form>';
+echo 'hello gud mrng';
 ?>
